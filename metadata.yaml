@@ -1,0 +1,29 @@
+_repo: The-Man-Who-Wins_29808
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29808-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Herrick, Robert
+    alias: Herrick, Robert Welch
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '2657'
+    url: http://www.gutenberg.org/2009/agents/2657
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Herrick_(novelist)
+description: ''
+gutenberg_issued: '2009-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29808'
+  lccn: 07004308
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: The Man Who Wins
+url: http://www.gutenberg.org/ebooks/29808
