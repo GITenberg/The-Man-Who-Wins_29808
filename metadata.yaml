@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2657
     wikipedia: http://en.wikipedia.org/wiki/Robert_Herrick_(novelist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29808#The-Man-Who-Wins
 gutenberg_issued: '2009-08-26'
 gutenberg_type: Text
 identifiers:
